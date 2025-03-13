@@ -1,3 +1,17 @@
+/*
+
+ █████  ██████  ███████   █████  ██████
+██   ██ ██  ███ ██   ███ ██   ██ ██  ███
+███████ ██████  ███████  ██   ██ ██████
+██   ██ ██   ██ ██   ███ ██   ██ ██   ██
+██   ██ ██   ██ ███████   █████  ██   ██
+
+File: main.cpp
+Auth: Alex Wang, Yubo Wang
+Desc: Source file for MCU
+
+*/
+
 #include <Arduino.h>
 
 #include <Wire.h>
